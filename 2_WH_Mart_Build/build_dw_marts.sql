@@ -6,3 +6,6 @@
 
 -- Load Data
 .read 02_load_schema_dw.sql
+
+-- Create Flat Mart
+.read 03_create_flat_mart.sql
